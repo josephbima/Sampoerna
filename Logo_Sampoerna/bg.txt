@@ -1,0 +1,15 @@
+neg/neg-1.pgm
+neg/neg-2.pgm
+neg/neg-3.pgm
+neg/neg-4.pgm
+neg/neg-5.pgm
+neg/neg-6.pgm
+neg/neg-7.pgm
+neg/neg-8.pgm
+neg/neg-9.pgm
+neg/neg-10.pgm
+neg/neg-11.pgm
+neg/neg-12.pgm
+neg/neg-13.pgm
+neg/neg-14.pgm
+neg/neg-15.pgm
